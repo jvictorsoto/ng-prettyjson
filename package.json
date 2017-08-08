@@ -7,7 +7,7 @@
     "name": "Julien Valéry",
     "email": "darul75@gmail.com"
   },
-  "filename": "./src/ng-prettyjson.js",
+  "main": "./dist/ng-prettyjson.min.js",
   "homepage": "https://github.com/darul75/ng-prettyjson",
   "repository": {
     "type": "git",
